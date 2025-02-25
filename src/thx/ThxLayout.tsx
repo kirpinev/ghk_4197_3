@@ -34,7 +34,7 @@ export const ThxLayout = () => {
       </div>
 
       <div className={appSt.bottomBtn}>
-        <ButtonMobile block view="primary" href="https://alfa.me/ght">
+        <ButtonMobile block view="primary" href="https://alfa.me/strGH">
           Оформить подписку
         </ButtonMobile>
       </div>
